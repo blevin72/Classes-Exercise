@@ -1,0 +1,15 @@
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/bryanlevin/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
